@@ -1,0 +1,14 @@
+{
+  "name": "tutorial-demo",
+  "version": "1.0.0",
+  "description": "Donec eu ipsum ut sapien tempor pulvinar. Sed pharetra orci non laoreet eleifend. Phasellus vel neque eget sem aliquet semper. Pellentesque venenatis aliquam ex sit amet facilisis. Morbi mattis, urna non accumsan aliquet, augue magna accumsan enim, iaculis dignissim orci ligula vitae neque. Nullam luctus quis ante eget blandit. Integer vitae nibh varius, vulputate ante eget, hendrerit nulla. Vivamus nec rhoncus nisl. Maecenas feugiat tincidunt tortor eu auctor. Phasellus malesuada elit nec euismod mollis. Nulla tellus mauris, sollicitudin quis orci viverra, pellentesque gravida nulla. Sed sagittis est est, at ornare lectus convallis in. Quisque aliquet metus vel odio bibendum ornare. Nullam a pharetra tellus. Nam dictum congue arcu, vel maximus nisi mollis id.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-cli": "^0.3.6"
+  }
+}
